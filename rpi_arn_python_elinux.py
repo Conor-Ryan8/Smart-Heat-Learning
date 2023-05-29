@@ -20,9 +20,11 @@ while True:
   if temp < IDEAL:
     radio.tx_code(HEAT_ON, 1, PIN)
     print("Too Cold! Heat On!")
+    
   elif temp > IDEAL:
     radio.tx_code(HEAT_OFF, 1, PIN)
     print("Too Warm, Heat Off")
+    
   else:
     print("Temperature Perfect!")
 
