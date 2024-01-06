@@ -1,5 +1,6 @@
-# Smart-Heat
-Smart Heat control
+# Smart-Heat=Learning
+
+Teaching myself new technologies using my Smart Heat control project as a template
 
 Project Evolution:
 1. Raspberry Pi / Python / Embedded Linux
