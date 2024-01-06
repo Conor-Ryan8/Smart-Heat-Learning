@@ -1,4 +1,4 @@
-# Smart-Heat=Learning
+# Smart-Heat-Learning
 
 Teaching myself new technologies using my Smart Heat control project as a template
 
